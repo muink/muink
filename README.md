@@ -6,10 +6,10 @@
 
 <!--- Light --->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=GistLib&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=GistLib&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
 </a>
 <a href="https://github.com/anuraghazra/muink.github.io/fantastic-packages#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=fantastic-packages&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=fantastic-packages&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
 </a>
 <!--- Dark --->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
