@@ -6,9 +6,9 @@
 - 💕 Opensource
 
 <!--- Light Skills --->
-[![Skills](https://skillicons.dev/icons?theme=light&perline=14&i=arduino,bash,c,cpp,docker,git,github,githubactions,gitlab,js,linux,lua,md,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode)](https://skillicons.dev#gh-light-mode-only)
+[![Skills](https://skillicons.dev/icons?theme=light&perline=14&i=arduino,autocad,bash,c,cpp,css,docker,git,github,githubactions,gitlab,html,js,linux,lua,md,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode)](https://skillicons.dev#gh-light-mode-only)
 <!--- Dark Skills --->
-[![Skills](https://skillicons.dev/icons?perline=14&i=arduino,bash,c,cpp,docker,git,github,githubactions,gitlab,js,linux,lua,md,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode)](https://skillicons.dev#gh-dark-mode-only)
+[![Skills](https://skillicons.dev/icons?perline=14&i=arduino,autocad,bash,c,cpp,css,docker,git,github,githubactions,gitlab,html,js,linux,lua,md,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode)](https://skillicons.dev#gh-dark-mode-only)
 
 <!--- Readme Stats --->
 [![Anya Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=muink&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
