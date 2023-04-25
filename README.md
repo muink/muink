@@ -11,14 +11,14 @@
     <img align="center" src="https://skillicons.dev/icons?theme=light&perline=14&i=arduino,autocad,bash,c,cpp,css,docker,git,github,githubactions,gitlab,html,js,linux" alt="Skills" />
   </p>
   <a href="https://skillicons.dev#gh-light-mode-only" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?theme=light&perline=14&i=lua,md,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode" alt="Skills" />
+    <img align="center" src="https://skillicons.dev/icons?theme=light&perline=14&i=lua,md,nginx,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode" alt="Skills" />
   </a>
   <!--- Dark Skills --->
   <a href="https://skillicons.dev#gh-dark-mode-only" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?perline=14&i=arduino,autocad,bash,c,cpp,css,docker,git,github,githubactions,gitlab,html,js,linux" alt="Skills" />
   </p>
   <a href="https://skillicons.dev#gh-dark-mode-only" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?perline=14&i=lua,md,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode" alt="Skills" />
+    <img align="center" src="https://skillicons.dev/icons?perline=14&i=lua,md,nginx,ps,powershell,py,regex,stackoverflow,sketchup,vim,visualstudio,vscode" alt="Skills" />
   </a>
 
   <!--- Readme Stats --->
