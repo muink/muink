@@ -23,10 +23,10 @@
 
   <!--- Readme Stats --->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muink&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="Anya Lin's github stats" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api?username=muink&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="Anya Lin's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muink&layout=compact&langs_count=8&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/top-langs/?username=muink&layout=compact&langs_count=8&hide=Smarty&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Langs" />
   </a>
   <!--- Readme Contributions --->
   <a href="https://git.io/streak-stats" target="_blank">
@@ -35,7 +35,7 @@
 </div>
 
 <!-- md table
-| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muink&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="Anya Lin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muink&layout=compact&langs_count=8&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Langs" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api?username=muink&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&title_color=C4E66E&icon_color=A2D2FF&text_color=FFAFCC&ring_color=5BCEFA&bg_color=00000000" alt="Anya Lin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/top-langs/?username=muink&layout=compact&langs_count=8&hide_border=true&border_radius=15&title_color=BBC972&text_color=CAB59C&bg_color=00000000" alt="Top Langs" /></a> |
 | ------------- | ------------- |
  -->
 
@@ -44,17 +44,17 @@
 
   <!--- Light Repos --->
   <a href="https://github.com/muink/GistLib/blob/master/GistList.md#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=GistLib&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=GistLib&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
   </a>
   <a href="https://github.com/fantastic-packages/packages#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=fantastic-packages&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=fantastic-packages&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
   </a>
   <!--- Dark Repos --->
   <a href="https://github.com/muink/GistLib/blob/master/GistList.md#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=GistLib&hide_border=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=GistLib&hide_border=true&theme=nord" />
   </a>
   <a href="https://github.com/fantastic-packages/packages#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muink&repo=fantastic-packages&hide_border=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=fantastic-packages&hide_border=true&theme=nord" />
   </a>
 </div>
 
