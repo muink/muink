@@ -49,12 +49,24 @@
   <a href="https://github.com/fantastic-packages/packages#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=fantastic-packages&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
   </a>
+  <a href="https://github.com/muink/openwrt-natmapt#gh-light-mode-only">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=openwrt-natmapt&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+  </a>
+  <a href="https://github.com/muink/luci-app-natmapt#gh-light-mode-only">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=luci-app-natmapt&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+  </a>
   <!--- Dark Repos --->
   <a href="https://github.com/muink/GistLib/blob/master/GistList.md#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=GistLib&hide_border=true&theme=nord" />
   </a>
   <a href="https://github.com/fantastic-packages/packages#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=fantastic-packages&hide_border=true&theme=nord" />
+  </a>
+  <a href="https://github.com/muink/openwrt-natmapt#gh-dark-mode-only">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=openwrt-natmapt&hide_border=true&theme=nord" />
+  </a>
+  <a href="https://github.com/muink/luci-app-natmapt#gh-dark-mode-only">
+    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=luci-app-natmapt&hide_border=true&theme=nord" />
   </a>
 </div>
 
