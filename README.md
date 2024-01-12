@@ -30,7 +30,7 @@
   </a>
   <!--- Readme Contributions --->
   <a href="https://git.io/streak-stats" target="_blank">
-    <img align="center" src="https://streak-stats.demolab.com?user=muink&hide_border=true&border_radius=15&fire=FFAFCC&ring=5BCEFAD7&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=C4E66E&sideLabels=BBC972&dates=CAB59C&stroke=C0AA9253&background=00000000" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats-amber.vercel.app?user=muink&hide_border=true&border_radius=15&fire=FFAFCC&ring=5BCEFAD7&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=C4E66E&sideLabels=BBC972&dates=CAB59C&stroke=C0AA9253&background=00000000" alt="GitHub Streak" />
   </a>
 </div>
 
