@@ -47,7 +47,7 @@
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=GistLib&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
   </a>
   <a href="https://github.com/fantastic-packages/packages#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=fantastic-packages&repo=packages&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fantastic-packages&repo=packages&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
   </a>
   <a href="https://github.com/muink/luci-app-einat#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=luci-app-einat&title_color=92BFF6&icon_color=6AC7FA&text_color=A1A7AD" />
@@ -60,7 +60,7 @@
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=GistLib&hide_border=true&theme=nord" />
   </a>
   <a href="https://github.com/fantastic-packages/packages#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=fantastic-packages&repo=packages&hide_border=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fantastic-packages&repo=packages&hide_border=true&theme=nord" />
   </a>
   <a href="https://github.com/muink/luci-app-einat#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats-iota-eight-46.vercel.app/api/pin/?username=muink&repo=luci-app-einat&hide_border=true&theme=nord" />
